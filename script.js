@@ -158,8 +158,8 @@
 // ---------------------------------------------------------------
 
 
-let myFunction = (a, b) => a * b;
-console.log(myFunction(5, 5));
+// let myFunction = (a, b) => a * b;
+// console.log(myFunction(5, 5));
 
 
 // hello = function() {
